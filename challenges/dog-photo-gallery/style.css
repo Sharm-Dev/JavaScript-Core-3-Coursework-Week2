@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display:block;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color:red;
+}
+p{
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+li{
+    list-style: none;
+}
